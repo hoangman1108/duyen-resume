@@ -179,6 +179,44 @@
         "image": "web_02.jpg",
         "url": "https://www.facebook.com/luxholdingsvietnam"
       }
+    ],
+    "photo": [
+      {
+        "title": "Website Effective Sales VN",
+        "category": "",
+        "image": "photo_05.jpg",
+        "url": ""
+      },
+      {
+        "title": "Facebook Effective Sales VN",
+        "category": "",
+        "image": "photo_06.jpg",
+        "url": ""
+      },
+      {
+        "title": "Facebook LUX Holdings",
+        "category": "",
+        "image": "photo_03.jpg",
+        "url": ""
+      },
+      {
+        "title": "Facebook LUX Holdings",
+        "category": "",
+        "image": "photo_04.jpg",
+        "url": ""
+      },
+      {
+        "title": "Facebook LUX Holdings",
+        "category": "",
+        "image": "photo_02.jpg",
+        "url": ""
+      },
+      {
+        "title": "Facebook LUX Holdings",
+        "category": "",
+        "image": "photo_01.jpg",
+        "url": ""
+      }
     ]
   },
   "testimonials": {
