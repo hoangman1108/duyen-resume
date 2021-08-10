@@ -27,7 +27,7 @@ class PhotoGraph extends Component {
       this.setState({ isOpen: true })
     }
     if (this.props.data) {
-      var projects = this.props.data.photo.map(function (projects) {
+      var projects = this.props.data.photo.map(function (projects, index) {
         var projectImage = 'images/photo/' + projects.image;
         return <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
